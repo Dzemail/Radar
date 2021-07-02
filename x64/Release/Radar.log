@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\LENOVO\source\repos\Radar\Radar\Source.cpp(31,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\Radar\Radar\Source.cpp(32,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 62 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Radar.vcxproj -> C:\Users\LENOVO\source\repos\Radar\x64\Release\Radar.exe
